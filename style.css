@@ -45,5 +45,6 @@ p{
 }
 
 .attribution{
-    
+    position: absolute;
+    top: 90%;
 }
